@@ -36,13 +36,13 @@ Linux | Git | GitHub | CI/CD | Nginx
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melmustafa&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zikkas&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melmustafa&exclude_repo=dotfiles&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zikkas&exclude_repo=dotfiles&layout=compact&theme=transparent&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melmustafa&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zikkas&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=melmustafa&theme=tokyonight&hide_border=true&column=-1&no-bg=true&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zikkas&theme=tokyonight&hide_border=true&column=-1&no-bg=true&no-frame=true)
 
 ### Let's Connect
 
